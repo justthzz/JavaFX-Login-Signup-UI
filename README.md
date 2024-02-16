@@ -1,2 +1,2 @@
 # JavaFX-Login-and-Signup-UI
-This project involves the creation of a JavaFX application with a user interface that supports both login and signup functionalities. The primary goal is to design and implement two distinct forms, one for user authentication (login) and another for user registration (signup).
+Developed a JavaFX application featuring a user-friendly login/signup interface. The login form validates user credentials, and the signup form captures personal and login details. Both forms are designed for simplicity and user engagement. Completed within a university week tutorial, this project demonstrates proficiency in JavaFX and UI design.
